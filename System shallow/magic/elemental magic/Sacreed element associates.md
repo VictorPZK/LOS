@@ -6,7 +6,7 @@
 			  Every forge in Caldrith resembles a shrine; every hammer strike, a prayer.
 		2. Uderya - The Primal Forge
 			One of the few remaining relics of the "Flame sprout" era and the only  fully operational fortress in Uderya. Built by an ancient demon predecessor race which aimed to harvest the fury of their creator for personal gain, they belived that power could serve to advance their civilisation. The fortress was able to quickly gather nearby primal flame, unfortunately luring all creatures from timid and domesticated fauna all the way to angry feral monsters. The fortress had withstood waves of monsters that began to  attack in increasingly larger groups for long, however it was all in vain as when the Ifral Aash attacked , defences quickly crumbled due to the superior inteligence of the monster.
-		3. Paltonia 
+		3. Paltonia - 
 		4. Casade
 	2. Objects
 		1. Shallow
