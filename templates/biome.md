@@ -1,0 +1,34 @@
+# {{title}} 
+## characteristics
+- **Climate**:
+	- Temeprature:
+	- Humidity:
+	- Weather
+- **Abiotic**:
+	-  Pedology (The Soil & Substrate)
+		- **Soil Composition:** 
+	    - **Drainage & Permeability:** 
+		- **pH Levels:**
+	-  **Acoustics:**         
+	- **Visibility/Lighting:** 
+	- water bodies
+-  Biotic 
+	- Flora:
+	- Fauna
+		- Herbivores:
+		- Carnivores:
+		- Omnivores:
+	- Fungii:
+- Geographical Context
+	- **Rain Shadow Effects:** 
+	- **Elevation/Altitude:** 
+	- **Ecotones (Transition Zones):**
+- Ecological Dynamics (The "Life" of the Biome)
+	- Natural disasters: 
+	- **Stratification (Verticality):** 
+	- **Keystone Species:** 
+- Arcane background
+	- **Magical Saturation:** 
+	- Elemental Alignment
+	- **Mythological Significance:** 
+## Lore 

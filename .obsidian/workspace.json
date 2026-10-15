@@ -1,0 +1,401 @@
+{
+  "main": {
+    "id": "d39fa0352a61050a",
+    "type": "split",
+    "children": [
+      {
+        "id": "373ec668b06b7093",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8aa15f4b3af54755",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System shallow/tallents/skills/skills rarity list.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "skills rarity list"
+            }
+          },
+          {
+            "id": "726ea17e182d4edf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System shallow/Elements of interaction dm-player/test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test"
+            }
+          },
+          {
+            "id": "3310e482b72c12b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System shallow/lore and world building/Lore.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lore"
+            }
+          },
+          {
+            "id": "f5c45e725e83ed8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System shallow/lore and world building/Pantheon of gods.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pantheon of gods"
+            }
+          },
+          {
+            "id": "d24ee49354752ed3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stary człowiek  i zboże/postaci stats quick hand.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "postaci stats quick hand"
+            }
+          },
+          {
+            "id": "441d15eee259d42f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "System shallow/magic/elemental magic/Elemental fusion.canvas",
+                "viewState": {
+                  "x": 1420.5764442137713,
+                  "y": 2426.6697553720965,
+                  "zoom": -1.1834955054054574
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Elemental fusion"
+            }
+          },
+          {
+            "id": "d9975b6cda84bf2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System shallow/character creation/race.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "race"
+            }
+          },
+          {
+            "id": "aa1cd4ce4e62877a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System shallow/Classes tree.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Classes tree"
+            }
+          },
+          {
+            "id": "7e6e0e07a051767e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "System shallow/character creation/Classes.canvas",
+                "viewState": {
+                  "x": 170,
+                  "y": -542,
+                  "zoom": -2.5078719736950505
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Classes"
+            }
+          },
+          {
+            "id": "ed58face5dd7199b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System shallow/Elements of interaction dm-player/fortune.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "fortune"
+            }
+          },
+          {
+            "id": "119bea53fac3eff4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System shallow/magic/elemental magic/Sacreed element associates.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sacreed element associates"
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "819d523f8af1f7f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "7480b73707028477",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f7147a12368b11e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Pliki"
+            }
+          },
+          {
+            "id": "4f0341266222780b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d36bf12e1ce42064",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200.5
+  },
+  "right": {
+    "id": "28c757be69ef9b24",
+    "type": "split",
+    "children": [
+      {
+        "id": "144f7a5c4bc33655",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6505f0d19b8ced0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "System shallow/tallents/skills/skills rarity list.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for skills rarity list"
+            }
+          },
+          {
+            "id": "8dcc754aae21d3ae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "System shallow/lore and world building/Pantheon of gods.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Pantheon of gods"
+            }
+          },
+          {
+            "id": "d41619f72261dc61",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tagi"
+            }
+          },
+          {
+            "id": "eeffa00c553178c5",
+            "type": "leaf",
+            "state": {
+              "type": "rpg-manager-options",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "rpg-manager-options"
+            }
+          },
+          {
+            "id": "a7b919de225f955f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "System shallow/magic/elemental magic/Sacreed element associates.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Konspekt"
+            }
+          },
+          {
+            "id": "c9b5df07901d3bc6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 266.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Otwórz paletę poleceń": false,
+      "switcher:Otwórz okno szybkiego wyboru": false,
+      "graph:Otwórz podgląd grafu": false,
+      "canvas:Stwórz nową tablicę": false,
+      "daily-notes:Otwórz dzisiejszy dziennik": false,
+      "templates:Wstaw szablon": false,
+      "bases:Stwórz nową bazę danych": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "119bea53fac3eff4",
+  "lastOpenFiles": [
+    "Stary człowiek  i zboże/Stary człowiek  i zbożey.md",
+    "Stary człowiek  i zboże/Przymiła Malikins.md",
+    "Stary człowiek  i zboże/postaci stats quick hand.md",
+    "Stary człowiek  i zboże/Posiadłość Winchesterów.md",
+    "Stary człowiek  i zboże/John Smith.md",
+    "Stary człowiek  i zboże/Imena.md",
+    "Stary człowiek  i zboże/Gertrude Halingherta.md",
+    "System shallow/magic/elemental magic/Sacreed element associates.md",
+    "System shallow/Elements of interaction dm-player/fortune.md",
+    "System shallow/magic/elemental magic/Elemental fusion.canvas",
+    "System shallow/Elements of interaction dm-player/test.md",
+    "System shallow/lore and world building/Pantheon of gods.md",
+    "System shallow/tallents/skills/skills rarity list.md",
+    "System shallow/character creation/race.md",
+    "System shallow/lore and world building/Lore.md",
+    "2026-10-14.md",
+    "System shallow/character creation/Character Creation.md",
+    "System shallow/character creation/Classes.canvas",
+    "System shallow/Classes tree.md",
+    "System shallow/lore and world building/timeline.canvas",
+    "System shallow/83021670",
+    "System shallow/karta postaci RELEASE — vol9.xlsx",
+    "System shallow/~$karta postaci RELEASE — vol9.xlsx",
+    "System shallow/~$karta postaci RELEASE — vol8.xlsx",
+    "System shallow/lore and world building/Shallow.md",
+    "System shallow/~WRL1785.tmp",
+    "System shallow/~WRD1680.tmp",
+    "System shallow/~$creesOfWorld.docx",
+    "System shallow/~WRL0001.tmp",
+    "System shallow/~WRD0000.tmp",
+    "System shallow/hidden notes/Elemental Infusion.canvas",
+    "System shallow/~$d verion of stories of world.docx",
+    "System shallow/lore and world building/Hierarchy of royal titels.md",
+    "System shallow/lore and world building/What are Legends of shallow.md",
+    "culture.md",
+    "System shallow/hidden notes/Elemental Competition.canvas",
+    "System shallow/Elements of interaction dm-player/Quests.md",
+    "System shallow/Elements of interaction dm-player/Economy in LOS.md",
+    "kampania morki nocy.md",
+    "System shallow/tallents/skills/Skill Ruling.md",
+    "Classes tree.md",
+    "grafiki/water.png",
+    "grafiki/nature.png",
+    "grafiki/airduze.png",
+    "grafiki/air.png",
+    "System shallow/mapy/MeltingRemenant.png",
+    "System shallow/mapy/map.png",
+    "System shallow/mapy/Avoken.png",
+    "SYSTEM~1/magic/elemental magic/Elemental fusion.canvas",
+    "System shallow/hidden notes/abyss.jpg",
+    "Untitled.canvas",
+    "trash/Untitled.canvas",
+    "System shallow/hidden notes/runes.jpg",
+    "System shallow/hidden notes/glyphs.jpg",
+    "System shallow/hidden notes/Classes 1.canvas",
+    "SYSTEM~1/magic/elemental magic/Elemental Infusion.canvas"
+  ]
+}

@@ -1,0 +1,1 @@
+Stary Kleofas -psyhol medyk, zadanie troll i bandzior almeral

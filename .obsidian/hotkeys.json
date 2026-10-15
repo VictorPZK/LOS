@@ -1,0 +1,22 @@
+{
+  "obsidian-mind-map:app:markmap-preview": [
+    {
+      "modifiers": [],
+      "key": "F3"
+    }
+  ],
+  "file-explorer:new-folder": [
+    {
+      "modifiers": [],
+      "key": "F12"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "/"
+    }
+  ]
+}

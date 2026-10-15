@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      or:
+        - file.ext == "jpg"
+        - file.ext == "png"
+        - file.ext == "canvas"
+    order:
+      - file.name
+      - file.size
+    columnSize:
+      file.name: 164

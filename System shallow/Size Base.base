@@ -1,0 +1,25 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      or:
+        - and:
+            - file.size < 50000
+            - file.size >= 2000
+            - file.ext == "md"
+        - and:
+            - file.size < 1000
+            - file.size >= 0
+            - file.ext == "md"
+            - and:
+                - file.folder != "Stary człowiek  i zboże"
+                - file.folder != "lukas"
+    order:
+      - file.name
+      - file.size
+      - file.path
+    sort:
+      - property: file.size
+        direction: DESC
+      - property: file.name
+        direction: ASC

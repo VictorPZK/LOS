@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"d4f856696b5b8ecc","type":"text","text":"Fire","x":-1180,"y":-593,"width":100,"height":60,"color":"4"},
+		{"id":"a78aceac2db7ea62","type":"text","text":"Water","x":-555,"y":-593,"width":116,"height":60,"color":"4"},
+		{"id":"56f465f5d7a02f74","type":"text","text":"Nature","x":-669,"y":-443,"width":114,"height":60,"color":"4"},
+		{"id":"03fc2c2cd72da503","type":"text","text":"Earth","x":-675,"y":-743,"width":120,"height":60,"color":"4"},
+		{"id":"290d2407ebbf824a","type":"text","text":"Electicity","x":-1055,"y":-743,"width":140,"height":60,"color":"4"},
+		{"id":"8d9b7b952eded1b0","type":"text","text":"Dark","x":-863,"y":-837,"width":100,"height":60,"color":"4"},
+		{"id":"c459e08c198b8062","type":"text","text":"Light","x":-870,"y":-340,"width":114,"height":60,"color":"4"},
+		{"id":"af13e3299f956856","type":"text","text":"Time ","x":-334,"y":-548,"width":105,"height":50,"color":"6"},
+		{"id":"aaf1f703cb286176","type":"text","text":"Fate","x":-40,"y":-555,"width":108,"height":65,"color":"6"},
+		{"id":"ffc5f4172a9b5b33","type":"text","text":"Duplication","x":-241,"y":-433,"width":201,"height":50,"color":"6"},
+		{"id":"f4c3882385e1fd91","type":"text","text":"Chaos","x":-357,"y":-1003,"width":150,"height":63,"color":"1"},
+		{"id":"213091257d5ec7e2","type":"text","text":"Creation","x":-357,"y":-867,"width":150,"height":60,"color":"1"},
+		{"id":"972afcd5b0d043ca","type":"text","text":"abyss","x":-265,"y":-683,"width":250,"height":60,"color":"6"},
+		{"id":"7e66f4c8f6ee046a","type":"text","text":"Air","x":-1035,"y":-463,"width":100,"height":60,"color":"4"}
+	],
+	"edges":[
+		{"id":"ed0b7d2fe8b474de","fromNode":"03fc2c2cd72da503","fromSide":"left","toNode":"7e66f4c8f6ee046a","toSide":"right","fromEnd":"arrow"},
+		{"id":"11f39eca1305b131","fromNode":"d4f856696b5b8ecc","fromSide":"right","toNode":"a78aceac2db7ea62","toSide":"left","fromEnd":"arrow"},
+		{"id":"0e8fbdcf9ba57989","fromNode":"290d2407ebbf824a","fromSide":"right","toNode":"56f465f5d7a02f74","toSide":"left","fromEnd":"arrow"},
+		{"id":"dff79a02749a7caf","fromNode":"c459e08c198b8062","fromSide":"top","toNode":"8d9b7b952eded1b0","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"f410bcf76009797a","fromNode":"af13e3299f956856","fromSide":"right","toNode":"aaf1f703cb286176","toSide":"left","fromEnd":"arrow"},
+		{"id":"7670bd91195da1a5","fromNode":"aaf1f703cb286176","fromSide":"bottom","toNode":"ffc5f4172a9b5b33","toSide":"right","fromEnd":"arrow"},
+		{"id":"99ba9249f5da289c","fromNode":"ffc5f4172a9b5b33","fromSide":"left","toNode":"af13e3299f956856","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"3348f29be53eb7ef","fromNode":"f4c3882385e1fd91","fromSide":"bottom","toNode":"213091257d5ec7e2","toSide":"top","fromEnd":"arrow"},
+		{"id":"26c01f39cf506b75","fromNode":"972afcd5b0d043ca","fromSide":"left","toNode":"af13e3299f956856","toSide":"top","fromEnd":"arrow"},
+		{"id":"7f9a164dc8007dac","fromNode":"972afcd5b0d043ca","fromSide":"right","toNode":"aaf1f703cb286176","toSide":"top","fromEnd":"arrow"},
+		{"id":"679029d3ed70fc53","fromNode":"972afcd5b0d043ca","fromSide":"bottom","toNode":"ffc5f4172a9b5b33","toSide":"top","fromEnd":"arrow"}
+	]
+}
