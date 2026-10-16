@@ -1,0 +1,9 @@
+# Wars
+## Ter-Aqual war
+One of the biggest conflicts in the Paltonia was known as Ter-Aqual conflict. It strated in year 1204 and officially lasted for twelve years. The cause of it is lead to raising tensions between Ter-Hakas and Aqualit. the dispute was backed by the long lasting arguments about cultural supermacy in th e regoin and overall bad relationship between those two regions. The breaking point happened after Aqualitian Force Unit captured and destroyed the merchant fleet that was originating from Ter-Hakas.  War escalated quickly and other countires got involved more or less directly. Often desribed as most brutal open confronttation with Merfolk of Aqualit in the history. Estimated five thousand seven hundred fourty soldiers of Ter-Hakas were slained within first two years of war, that prelongated because of prideful stubborness of both countires' leaders.
+Battles of this conflict:
+	Battle of Akramillia 1207:
+		Arkamillia is a city of Aqualit that lies in most critical position in on the front line. Capturing it meant cutting the country in half and separating enemy troops from supplies. The attack had to be quick in order to succeed. Tar-Hakas fleet moved into the area of range expection to use an element of surprise but were met with open fire. Aqualitan Counterintelligence Unit got to their plans before they went into motion so the army prepared. In this battle alone eleven out of every fifteen ships were sunk, taking down most of the troops that were sent there.
+	Battle of Gran-Heno 1208:
+		Gran-Heno was a coast city within Ter-Hakas lands. Aqualitian Force Unit prepared counter attack in order to breach the land and invade 
+		
