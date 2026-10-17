@@ -1,0 +1,52 @@
+Every region/country/city can be rated on the scales (rolled the dice)
+- Military:
+	How much of a military impact does it have on the area it is locted:
+	-  1  :No impact / recently conquered  - doesn't hold any power 
+	-  2-4 : tiny impact - small army of volunteres
+	- 5-8 : small impact - army(guard structure) that members do other jobs while not on the job
+	- 9-13  recognised regional force : regular full time army structure, army(guards) are quartered and paid.
+	- 14-17 Good strength - army that posesses inner structures and can work even without a govenor (autonomic and aware) resistant to desertion.
+	- 18-19 significant power - big army that is a force that can't be omitted in calcutaions or strategy, often well equiped and profesionally trained.
+	- 20  military powerhouse - huge scaled and specialised army that is supported, well paid and feared by outsiders. 
+- Culture:
+- Politics:
+	- Stability:
+	- Power Distribution:
+- Economy:
+	- Structure:
+	- Resuorces:
+		list of resources that are in the region / Plants that grow naturally there
+		- 1: lava , 
+		- 2 : Clay, Kaolin , 
+		- 3 : Limestone , chalk
+		- 4 : Peat , Pine resin
+		- 5 Sand, Gravel, 
+		- 6 Ganite, Slate, Andesite,Sandstone
+		- 7 :Salt ,Madder,Weld
+		- 8: Sulphur , 
+		- 9 : Asbestos , Magmite
+		- 10 : Saltpeter, Guano,
+		- 11 : Diamonds , Rubies, Eemrald, Sapharies , 
+		- 12:  Silver, Pearls, Jade , Coffee ,Tabacco
+		- 13: Gold, Opal, Sugar cane, Tea
+		- 14: Platinum, Cobalt , Opium Poppy , Cinchona Bark
+		- 15:  Nickel, Lead, Tin , Zinc,  ,Indigo Plant
+		- 16: Cinnabar, Coal , Graphite ,
+		- 17: Copper , Iron , Wheat, Rice, Maize, Barley 
+		- 18: Pyrit,Territ, Aquit,Aerit,Electrit,Luminit,Teneberit,Viridit, Flax
+		- 19: Anthracite (Hard Coal), Iron Ore (Hematite / Magnetite)
+		- 20 :Pyrium,Terrium,Aqum,Aerum,Electrum,Luminum,Teneberium,Viridium
+	- Ground fertility:
+		- **1–4 (Desolate / Arid):** Desert, rocky mountain, or toxic soil. Entirely dependent on imported food, greenhouses, or magical food creation to avoid starvation.
+		- **5–8 (Poor / Subsistence Soil):** Requires heavy labor and luck to yield enough crops for local survival; frequent crop failures or food imports needed.
+		- **9–12 (Self-Sustaining Farmland):** Good quality arable land. Comfortably feeds the local population with a modest seasonal surplus.
+		- **13–16 (Bumper Crops / Agricultural Engine):** Exceptionally fertile soil (river valleys, volcanic soil) generating massive crop surpluses exported across the region.
+		- **17–20 (The Realm's Breadbasket):** Hyper-fertile land with ideal microclimates and irrigation. Can single-handedly feed entire empires or nations.
+- Education:
+	- **1–4 (Uneducated / Illiterate):** Virtually no formal education; knowledge passed down orally. Scientific/magical literacy is near zero.
+	- **5–8 (Apprenticeships & Basic Literacy):** Church schools or private tutors for the wealthy; trade guilds train apprentices. Low overall public literacy.
+	- **9–12 (Colleges & Specialized Academies):** Public libraries, specialized trade schools, medical centers, and respected local colleges.
+	- **13–16 (Renowned University City):** Prestigious seats of higher learning, sprawling libraries, pioneering research labs, and high literacy among citizens.
+	- **17–20 (Center of Innovation & World Discovery):** World-famous academies that lead technological breakthroughs, magical innovation, or revolutionary scientific discoveries.
+- Famous Personas:
+	not a scalee but a list of importat for region people

@@ -1,0 +1,11 @@
+- Military:
+- Culture:
+- Politics:
+	- Stability:
+	- Power Distribution:
+- Economy:
+	- Structure:
+	- Resuorces:
+	- Ground fertility:
+- Education:
+- Famous Personas:

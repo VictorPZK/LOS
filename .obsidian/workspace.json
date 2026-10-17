@@ -159,28 +159,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System shallow/Paltonia/World lore.md",
+                "file": "templates/regionstats.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "World lore"
+              "title": "regionstats"
             }
           },
           {
             "id": "1200de84e04c88fa",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "System shallow/maps/Paltonia_map_country_div.png"
+                "file": "System shallow/Elements of interaction dm-player/Rules for rating regions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Paltonia_map_country_div"
+              "icon": "lucide-file",
+              "title": "Rules for rating regions"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -312,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System shallow/Paltonia/World lore.md",
+                "file": "System shallow/Elements of interaction dm-player/Rules for rating regions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -336,8 +338,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
-    "collapsed": true
+    "width": 266.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -351,13 +352,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "119bea53fac3eff4",
+  "active": "1200de84e04c88fa",
   "lastOpenFiles": [
+    "templates/regionstats.md",
+    "System shallow/Elements of interaction dm-player/Rules for rating regions.md",
+    "Stary człowiek  i zboże/postaci stats quick hand.md",
+    "System shallow/Elements of interaction dm-player/Economy in LOS.md",
+    "System shallow/Elements of interaction dm-player/Equipment making.md",
+    "System shallow/lore and world building/Paltonia/Ter-Hakas.md",
+    "System shallow/lore and world building/Hierarchy of royal titels.md",
+    "System shallow/lore and world building/Pantheon of gods.md",
+    "System shallow/Elements of interaction dm-player/test.md",
+    "System shallow/Elements of interaction dm-player/Quests.md",
+    "System shallow/Elements of interaction dm-player/mechanics.md",
+    "System shallow/Elements of interaction dm-player/fortune.md",
     "System shallow/maps/Paltonia_map_country_div.png",
-    "System shallow/Paltonia/World lore.md",
-    "System shallow/Paltonia/Ter-Hakas.md",
+    "templates/biome.md",
+    "templates/mob desgin.md",
+    "templates/panton of gods.md",
+    "System shallow/lore and world building/Paltonia/World lore.md",
     "Paltonia_map_country_div.png",
-    "System shallow/Paltonia",
+    "System shallow/lore and world building/Paltonia",
     "System shallow/maps/Paltonia_map_trading_routes.png",
     "System shallow/maps/Paltonia_map_ver1.png",
     "System shallow/magic/elemental magic/Sacreed element associates.md",
@@ -366,37 +381,24 @@
     "System shallow/Nowy folder",
     "Stary człowiek  i zboże/Stary człowiek  i zbożey.md",
     "Stary człowiek  i zboże/Przymiła Malikins.md",
-    "Stary człowiek  i zboże/postaci stats quick hand.md",
     "Stary człowiek  i zboże/Posiadłość Winchesterów.md",
     "Stary człowiek  i zboże/John Smith.md",
     "Stary człowiek  i zboże/Imena.md",
     "Stary człowiek  i zboże/Gertrude Halingherta.md",
-    "System shallow/Elements of interaction dm-player/fortune.md",
     "System shallow/magic/elemental magic/Elemental fusion.canvas",
-    "System shallow/Elements of interaction dm-player/test.md",
-    "System shallow/lore and world building/Pantheon of gods.md",
     "System shallow/tallents/skills/skills rarity list.md",
     "System shallow/character creation/race.md",
     "System shallow/lore and world building/Lore.md",
-    "2026-10-14.md",
-    "System shallow/character creation/Character Creation.md",
     "System shallow/character creation/Classes.canvas",
-    "System shallow/Classes tree.md",
     "System shallow/lore and world building/timeline.canvas",
     "System shallow/83021670",
     "System shallow/karta postaci RELEASE — vol9.xlsx",
     "System shallow/~$karta postaci RELEASE — vol9.xlsx",
     "System shallow/~$karta postaci RELEASE — vol8.xlsx",
-    "System shallow/lore and world building/Shallow.md",
     "System shallow/~WRL1785.tmp",
     "System shallow/~WRD1680.tmp",
     "System shallow/hidden notes/Elemental Infusion.canvas",
-    "System shallow/lore and world building/Hierarchy of royal titels.md",
-    "System shallow/lore and world building/What are Legends of shallow.md",
-    "culture.md",
     "System shallow/hidden notes/Elemental Competition.canvas",
-    "System shallow/Elements of interaction dm-player/Quests.md",
-    "System shallow/Elements of interaction dm-player/Economy in LOS.md",
     "grafiki/water.png",
     "grafiki/nature.png",
     "grafiki/airduze.png",
